@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/ton-connect/demo-telegram-bot",
+  "url": "https://github.com/MikeWazovksy/manifest",
   "name": "Demo Test",
-  "iconUrl": "https://ton-connect.github.io/demo-dapp-with-react-ui/apple-touch-icon.png"
+  "iconUrl": "https://raw.githubusercontent.com/MikeWazovksy/manifest/refs/heads/main/gp.ico"
 }
